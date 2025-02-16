@@ -1,7 +1,7 @@
 ![logo](https://github.com/SR-26-creater/SR-work/blob/main/Blue%20and%20Red%20Edgy%20Gaming%20git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sadaf Ramzan</h1>
 <h3 align="center">"Future AI Engineer | Passionate About Tech & Automation"</h3>
-<img align="right" alt="coding" width="400" src="https://blog.codeweek.eu/wp-content/uploads/2023/08/animation-photo.jpg">
+<img align="right" alt="coding" width="300" src="https://blog.codeweek.eu/wp-content/uploads/2023/08/animation-photo.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-26-creater&label=Profile%20views&color=0e75b6&style=flat" alt="sr-26-creater" /> </p>
 
 - ⚡ Fun fact *I am funny 😊*
